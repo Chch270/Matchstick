@@ -1,2 +1,2 @@
 # Matchstick
-Stick game
+Stick game in C
